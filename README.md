@@ -12,7 +12,6 @@ This project is an interactive IPL Data Analytics Dashboard built using SQL and 
 * MySQL
 * Power BI
 * Data Cleaning & Transformation
-* Data Visualization
 
 ---
 
